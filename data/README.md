@@ -4,18 +4,20 @@
 
 **Predict Students' Dropout and Academic Success**
 
-- **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)
-- **Description**: Dataset from a Portuguese higher education institution containing 4,424 student records with 36 variables spanning academic performance, demographics, and financial indicators.
+- **Source**: Published academic research from a Portuguese higher education institution
+- **Description**: Dataset containing 4,424 student records with 36 variables spanning academic performance, demographics, and financial indicators
+- **Availability**: Dataset is publicly available through academic data repositories and research publications
 
-## Download Instructions
+## Note on Data Access
 
-1. Visit the Kaggle dataset link above
-2. Download the dataset files
-3. Place them in this `data/` directory (if running locally)
+The specific dataset used in this analysis was obtained from published research. If you would like to replicate this analysis:
+1. The dataset may be available through UCI Machine Learning Repository or institutional repositories
+2. Search for "Predict Students Dropout and Academic Success Portugal" 
+3. Contact the repository maintainers if needed for access
 
 ## Note
 
-Raw data files are not included in this repository per Kaggle's terms. The dataset is publicly available for download from the link above.
+Raw data files are not included in this repository to respect data usage terms. The dataset is publicly available for academic and research purposes.
 
 ## Data Files (if you download them)
 
