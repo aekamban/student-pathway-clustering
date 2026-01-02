@@ -98,7 +98,7 @@ student-pathway-clustering/
 
 ## Contact
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) | View my [Portfolio](https://yourportfolio.com)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/abi-kambanis-data-science)
 
 ---
 
