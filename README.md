@@ -12,7 +12,7 @@ Educational institutions often lack visibility into distinct student success pat
 - **Size**: 4,424 students, 36 variables
 - **Features**: Academic performance, demographics, financial indicators
 - **Status**: Pre-cleaned; this project focuses on analysis, clustering, and equity-oriented interpretation
-- **Source**: [Kaggle](https://www.kaggle.com/datasets/thedevastator/higher-education-predictors-of-student-retention)
+- **Source**: Published academic research dataset (available through institutional data repositories)
 
 ## Methods
 
